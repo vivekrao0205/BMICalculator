@@ -8,6 +8,7 @@ A simple and elegant **BMI (Body Mass Index) Calculator** Android app built usin
 - ⚡ Instant result with health category (Underweight, Normal, Overweight, Obese)
 📸 
 ![img.png](img.png)
+
 🛠️ Tech Stack
 
 - Language: Java
